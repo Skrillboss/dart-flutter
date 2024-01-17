@@ -17,7 +17,7 @@ Fuera del main se crea un objeto llamado Hero, con los atributos name, power y i
 
 * @override: se sobre escribe la funcionalidad de toString(), con el fin de que imprima todos los atributos del objeto Hero.
 
-## GETTERSandSETTERS
+### GETTERSandSETTERS
 
 > fichero: 02_geters_setters.dart
 
