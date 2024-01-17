@@ -21,7 +21,9 @@ Fuera del main se crea un objeto llamado Hero, con los atributos name, power y i
 
 > fichero: 02_geters_setters.dart
 
-Fuera del main se crea un objeto llamado Square, el cual tiene como atributo _side, un constructor y 3 metodos: get, set y calcularArea.
+Fuera del main se crea un objeto llamado Square, el cual tiene como atributo _side, un constructor con una asercion y 3 metodos: get, set y calcularArea.
+
+* Constructor con asercion: la asercion, es un condicional en el que se revisa si se cumple algun determinado caso, se asignara los valores del constructor, usamos la funcion assert(), el primer parametro recibido, sera el condicional para que siga con el funcionamiento del constructor, el segundo parametro, es el mensaje de error, en caso de que el condicional no se cumpla.
 
 * Get: es un metodo de flecha que solo obtiene el area exponiendo su atributo al cuadrado.
 
